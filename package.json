@@ -1,0 +1,26 @@
+{
+  "name": "apostrophe-google-calendar",
+  "version": "0.0.0",
+  "description": "A little module for pulling public google calendars into your apostrophe site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/punkave/apostrophe-google-calendar.git"
+  },
+  "keywords": [
+    "google-calendar",
+    "calendar",
+    "apostrophe",
+    "events",
+    "cms"
+  ],
+  "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punkave/apostrophe-google-calendar/issues"
+  },
+  "homepage": "https://github.com/punkave/apostrophe-google-calendar"
+}
